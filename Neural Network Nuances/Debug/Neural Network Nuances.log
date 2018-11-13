@@ -1,0 +1,95 @@
+﻿  Neural Network Nuances.cpp
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(35): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(40): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(47): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(52): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(233): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(235): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(237): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(239): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(364): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(379): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(397): warning C4018: '<=': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(398): warning C4018: '<=': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(399): warning C4018: '<=': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(400): warning C4018: '<=': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(402): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(409): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(416): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(422): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(432): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(439): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(446): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(452): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(462): warning C4018: '<=': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(464): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(471): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(478): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(484): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(494): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(501): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(508): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(514): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(525): warning C4018: '<=': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(526): warning C4018: '<=': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(528): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(535): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(542): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(548): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(558): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(565): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(572): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(578): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(588): warning C4018: '<=': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(590): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(597): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(604): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(610): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(620): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(627): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(634): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(640): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(652): warning C4018: '<=': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(653): warning C4018: '<=': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(654): warning C4018: '<=': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(656): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(663): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(670): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(676): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(686): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(693): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(700): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(706): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(716): warning C4018: '<=': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(718): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(725): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(732): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(738): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(748): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(755): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(762): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(768): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(779): warning C4018: '<=': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(780): warning C4018: '<=': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(783): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(790): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(797): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(803): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(813): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(820): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(827): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(833): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(843): warning C4018: '<=': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(845): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(852): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(859): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(865): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(875): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(882): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(889): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(895): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\jack\documents\visual studio 2017\projects\neural network nuances\neural network nuances\neural network nuances.cpp(923): warning C4018: '<': signed/unsigned mismatch
+  Neural Network Nuances.vcxproj -> C:\Users\Jack\Documents\Visual Studio 2017\Projects\Neural Network Nuances\Debug\Neural Network Nuances.exe
